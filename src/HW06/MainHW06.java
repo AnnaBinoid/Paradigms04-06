@@ -40,6 +40,7 @@ public class MainHW06 {
 
         // accepts in array, first and last index and number of element for search
         binarySearch(arr, first, last, item);
+
     }
 
     // binary search
